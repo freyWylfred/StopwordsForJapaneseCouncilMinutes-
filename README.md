@@ -1,4 +1,4 @@
-#  Stopwords For Japanese Council Minutes
+#  Stopwords For Japanese Council Minutes-
 
 日本の地方議会・国会等の議事録を自然言語処理する際に利用することを目的とした、  
 **議会議事録ドメイン特化型の日本語ストップワード辞書**です。
